@@ -1,0 +1,30 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+<head><title>500 - Internal Server Error</title>
+
+<link type="text/css" rel="stylesheet" href="/shared/error/css/error.css" />	
+
+</head>
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<div id="error">	
+	<img src="http://newsimg.bbc.co.uk/shared/error/img/bbc_news_sport.gif" width="347" height="29" border="0" alt="BBC News BBC Sport">
+	<h1>500 - Internal Server Error</h1>	
+	
+	<p>
+	This error may be temporary.<br /> 
+	Please come back later, and then try again.
+	</p> 		
+	
+    <p class="instruction">Or</p>
+	
+	<ul class="linkList">
+ 	<li>Visit the <a href="http://news.bbc.co.uk/" class="errorbold"><b>BBC News Home Page</b></a>.</li>
+ 	<li>Visit the <a href="http://news.bbc.co.uk/sport/" class="errorbold"><b>BBC Sport Home Page</b></a>.</li>
+ 	<li>Explore our <a href="http://www.bbc.co.uk/a-z/" class="errorbold"><b>full list of sites and services</b></a>.</li> 
+	</ul>
+
+</div>
+</body>
+</html>

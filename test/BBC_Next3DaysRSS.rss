@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://feeds.bbc.co.uk/weather/feeds/rss/weather.xsl"?>
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>BBC - Weather Centre - Forecast for Perth, Australia</title>
+<link>http://news.bbc.co.uk/weather/forecast/92</link>
+<atom:link href="http://news.bbc.co.uk/weather/forecast/92/Next3DaysRSS.rss" rel="self" type="application/rss+xml" />
+<description>by the BBC Weather Centre in association with the Met Office</description>
+<language>en</language>
+<copyright>Copyright: (C) British Broadcasting Corporation</copyright>
+<pubDate>Mon, 04 May 2009 15:35:00 +0800</pubDate>
+<lastBuildDate>Mon, 04 May 2009 15:35:00 +0800</lastBuildDate>
+<managingEditor>weather@bbc.co.uk (BBC Weather)</managingEditor>
+
+<webMaster>weather@bbc.co.uk (BBC Weather)</webMaster>
+
+<image>
+	<title>BBC - Weather Centre - Forecast for Perth, Australia</title>
+  <link>http://news.bbc.co.uk/weather/forecast/92</link>
+  <url>http://news.bbc.co.uk/weather/img/symbols/57x57/1.gif</url>
+</image>
+
+<item>
+<title><TODAY>: sunny, Max Temp: 28&#xB0;C (82&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F)</title>
+<link>http://news.bbc.co.uk/weather/forecast/92</link>
+<description>Max Temp: 28&#xB0;C (82&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F), Wind Direction: ENE, Wind Speed: 6mph, Visibility: very good, Pressure: 1026mB, Humidity: 30%,  Sunrise: 06:50WST, Sunset: 17:35WST</description>
+<guid isPermaLink="false">tag:feeds.bbc.co.uk,2009-05-04:/weather/forecast/92-1</guid>
+
+<pubDate>Mon, 04 May 2009 15:35:12 +0800</pubDate>
+<geo:lat>-31.93</geo:lat>
+<geo:long>115.95</geo:long>
+</item>
+<item>
+<title><TOMORROW>: sunny, Max Temp: 27&#xB0;C (81&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F)</title>
+<link>http://news.bbc.co.uk/weather/forecast/92</link>
+<description>Max Temp: 27&#xB0;C (81&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F), Wind Direction: ENE, Wind Speed: 7mph, Visibility: very good, Pressure: 1028mB, Humidity: 33%,  Sunrise: 06:50WST, Sunset: 17:35WST</description>
+<guid isPermaLink="false">tag:feeds.bbc.co.uk,2009-05-04:/weather/forecast/92-2</guid>
+
+<pubDate>Mon, 04 May 2009 15:35:12 +0800</pubDate>
+<geo:lat>-31.93</geo:lat>
+<geo:long>115.95</geo:long>
+</item>
+<item>
+<title><DAY_AFTER_TOMORROW>: sunny, Max Temp: 25&#xB0;C (77&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F)</title>
+<link>http://news.bbc.co.uk/weather/forecast/92</link>
+<description>Max Temp: 25&#xB0;C (77&#xB0;F), Min Temp: 14&#xB0;C (57&#xB0;F), Wind Direction: ENE, Wind Speed: 9mph, Visibility: very good, Pressure: 1028mB, Humidity: 37%,  Sunrise: 06:51WST, Sunset: 17:34WST</description>
+<guid isPermaLink="false">tag:feeds.bbc.co.uk,2009-05-04:/weather/forecast/92-3</guid>
+
+<pubDate>Mon, 04 May 2009 15:35:12 +0800</pubDate>
+<geo:lat>-31.93</geo:lat>
+<geo:long>115.95</geo:long>
+</item>
+</channel>
+</rss>

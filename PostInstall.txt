@@ -1,0 +1,2 @@
+
+For more information on weather_report, see http://www.cordinc.com/projects/weather_report

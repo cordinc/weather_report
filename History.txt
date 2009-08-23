@@ -1,0 +1,12 @@
+== 0.0.1 2009-05-04
+
+* 1 major enhancement:
+  * Initial release
+
+== 0.0.2 2009-07-16
+	
+* 4 bug fixes
+  * Added accessors for description on observation and description, advance_days, image_url on forecasts
+  * Change Backstage url string
+  * Throw a FormatException if there is no data from the Backstage service
+  * Added simple webpage

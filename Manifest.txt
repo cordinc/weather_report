@@ -1,0 +1,14 @@
+History.txt
+Manifest.txt
+README.rdoc
+PostInstall.txt
+Rakefile
+lib/weather_report.rb
+script/console
+script/console.cmd
+script/destroy
+script/destroy.cmd
+script/generate
+script/generate.cmd
+test/test_helper.rb
+test/test_weather_report.rb
